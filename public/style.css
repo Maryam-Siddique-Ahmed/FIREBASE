@@ -1,0 +1,85 @@
+#Image{
+    display: block;
+    margin: 0px auto;
+    height: 150;
+    
+}
+
+    img.medium {
+    width: 250px;
+    height: 250px;}
+
+
+#headingregistration{
+    color: purple;
+    text-align: center;
+}
+#tableform{
+    background-color:rgb(154, 97, 207);
+}
+label{
+    color: white;
+}
+.education{
+    background-color:rgb(154, 97, 207);
+}
+.QUALIFICATION{
+    color: white;
+}
+span{ vertical-align: top;
+}
+table{border-color: black;
+        border-width: medium;
+        border-collapse: collapse;
+    }
+   
+th {
+        width: 5vw;
+        align-items: center;
+        text-align: center;
+        font-weight: bolder;
+}
+#Submit{
+    align:"center"
+}
+div{
+    align:'center';
+}
+#Submit{
+    text-align:center;}
+.reset{text-align: center;}
+#ticklogo{display: block;
+    margin: 0px auto;
+    height: 150;
+
+}
+#You{color: green;
+text-align: center;}
+
+
+
+.submision{
+    color:indigo;
+    text-align: center;
+    
+}
+.go{
+    text-align: center;
+
+}
+    
+
+
+
+    
+       
+        
+    
+    
+
+   
+   
+
+    
+    
+
